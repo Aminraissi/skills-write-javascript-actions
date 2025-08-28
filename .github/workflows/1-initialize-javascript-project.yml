@@ -1,6 +1,5 @@
 name: Step 1, Initialize JavaScript Project
 
-# This step listens for the learner pushing a commit to `main`.
 # This workflow updates from step 1 to step 2.
 
 # This will run every time we push a commit to `main`.
